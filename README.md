@@ -2,7 +2,7 @@
 
 Reticles files MOD optimized for VR.
 
-This is not a simple MOD with higher brightness reticles. All reticles have been modified to have an improved visibility in VR. It works great with VR systems with WiFi connection, like Quest or Pico; or with low resolution VR systems.
+This is not a simple MOD with higher brightness reticles. All reticles have been modified to have an improved visibility in VR. It works great with VR systems with WiFi connection, like Quest or Pico, and with low resolution VR systems.
 
 ## Installation
 
